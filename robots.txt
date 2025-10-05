@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syed2006-hub.github.io/vibrant_dance_academy/sitemap.xml
