@@ -1,5 +1,5 @@
 # 💃 Vibrant Dance Academy
-### *The Ultimate Professional Studio Management Platform*
+### *The Ultimate Professional Dance Studio Management Platform*
 
 <p align="center">
   <img src="assets/4.png" width="800" alt="Vibrant Dance Academy Banner" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
